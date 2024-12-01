@@ -1,5 +1,5 @@
 #include <iostream>
-// 
+// File handling operation in C++
 #include <fstream>
 // lib for string manipulation
 #include <string>
